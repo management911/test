@@ -1,0 +1,6 @@
+{
+  "name": "Android Terminal & ADB Manual",
+  "description": "محاكي سطر أوامر الأندرويد ودليل أوامر ADB وتطبيق Termux التفاعلي باللونين الأسود والرمادي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
